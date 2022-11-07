@@ -2,19 +2,17 @@
 
 Gosto de criar ótimos Sites e ajudar outras pessoas a fazer o mesmo.
 
-## <img width="100" alt="about" src="https://i.ibb.co/ZKmfzLG/logo-dark.png"> Mais sobre mim
+## <img width="75" alt="about" src="https://i.ibb.co/chkx1zS/Sem-T-tulo-2.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Developer** {
- val name = "Raphael Castro"
- val acknowledgements = "Front-End"
- 
- val primarySkillset = "Proatividade é meu nome"
- val languages = listOf("HTML", "CSS3", "JAVASCRIPT", "TYPESCRYPT", "REACT") 
-
-}
+```javascript
+const Developer [
+ {name: "Raphael Castro"},
+ {acknowledgements: "Front-End"},
+ {primarySkillset: "Proatividade é meu nome"},
+ {languages : "HTML, CSS3, JAVASCRIPT, TYPESCRYPT, REACT"}
+]
 ```
 
 ## **Linguagens e Ferramentas:**
