@@ -13,6 +13,7 @@ const Developer [
  {primarySkillset: "Proatividade é meu nome"},
  {languages : "HTML, CSS3, JAVASCRIPT, TYPESCRYPT, REACT"}
 ]
+ 
 ```
 
 ## **Linguagens e Ferramentas:**
