@@ -1,16 +1,23 @@
-<div align="center">
-<img src="https://i.ibb.co/W5z2XPr/github-header-image-2.png" alt="github-header-image-2" border="0" />
-</div>
+### Oie devs 👋
 
-##Olá Sou o Raphael Castro!
-- 📖 Estudante De Front-End
-<div align="center">
-  <a href="https://github.com/raphacast">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphacast&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphacast&layout=compact&langs_count=7&theme=white"/>
-</div>
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,12 +29,22 @@
   
 </div>
 
-##
+## **GitHub Estatísticas**
 
+<a href="https://github.com/raphacast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphacast&theme=white&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/raphacast">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphacast&show_icons=true&theme=compact&langs_count=7&theme=white" alt="**SEU NOME** github stats"/>
+</a>
+
+##
 <div> 
    <a href="https://www.instagram.com/raphaelcastro14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href = "mailto:raphaelalgoritmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-oliveira-421946232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/raphael-oliveira-421946232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
  
   ![Snake animation](https://github.com/raphacast/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
