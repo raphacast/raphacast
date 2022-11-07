@@ -8,12 +8,13 @@ Gosto de criar ótimos Sites e ajudar outras pessoas a fazer o mesmo.
 
 ```javascript
 const Developer [
+
  {name: "Raphael Castro"},
  {acknowledgements: "Front-End"},
  {primarySkillset: "Proatividade é meu nome"},
  {languages : "HTML, CSS3, JAVASCRIPT, TYPESCRYPT, REACT"}
-]
  
+]
 ```
 
 ## **Linguagens e Ferramentas:**
