@@ -1,18 +1,18 @@
-### Oie devs 👋
+### Hello Devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar ótimos Sites e ajudar outras pessoas a fazer o mesmo.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="100" alt="about" src="https://i.ibb.co/ZKmfzLG/logo-dark.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Developer** {
+ val name = "Raphael Castro"
+ val acknowledgements = "Front-End"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val primarySkillset = "Proatividade é meu nome"
+ val languages = listOf("HTML", "CSS3", "JAVASCRIPT", "TYPESCRYPT", "REACT") 
 
 }
 ```
