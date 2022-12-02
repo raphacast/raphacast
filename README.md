@@ -1,6 +1,8 @@
-### Hello Devs 👋
+### Hello Devs!!👋 !Me chamo Raphael.
 
-Gosto de criar ótimos Sites e ajudar outras pessoas a fazer o mesmo.
+💡 Atualmente estou em busca de oportunidades na área de FrontEnd.
+📫 Meu Linkedin: https://www.linkedin.com/in/raphael-castrodev/
+
 
 ## <img width="75" alt="about" src="https://i.ibb.co/chkx1zS/Sem-T-tulo-2.png"> Mais sobre mim
 
