@@ -1,6 +1,6 @@
 ### Hello Devs!!👋 !Me chamo Raphael.
 
-💡 Atualmente estou em busca de oportunidades na área de FrontEnd.
+💡 Atualmente estou em busca de oportunidades na área de BackEnd.
 </br>
 📫 Meu Linkedin: https://www.linkedin.com/in/raphael-castrodev/
 
@@ -15,7 +15,7 @@ const Developer [
  {name: "Raphael Castro"},
  {acknowledgements: "Front-End"},
  {primarySkillset: "Proatividade é meu nome"},
- {languages : "HTML, CSS3, JAVASCRIPT, TYPESCRYPT, REACT"}
+ {languages : "HTML, CSS3, JAVASCRIPT, TYPESCRYPT, REACT", C#, Asp.NET, .NET}
  
 ]
 ```
@@ -26,7 +26,6 @@ const Developer [
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rapha-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rapha-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Rapha-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
